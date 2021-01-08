@@ -1,0 +1,3 @@
+resource.json text eol=lf
+project.json text eol=lf
+props.json text eol=lf
